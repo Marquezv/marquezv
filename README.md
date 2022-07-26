@@ -15,7 +15,7 @@
 
 <div style="center"><br>
   <img align="center" alt="Vini-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-  <img align="center" alt="Vini-Docker"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Vini-Docker"  height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" height="40" width="50" alt="Vini-Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
   <img align="center" height="40" width="50" alt="Vini-Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
