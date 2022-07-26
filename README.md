@@ -1,8 +1,8 @@
 # Olá! Eu sou o Vinicius Marques
 
 <div align="left">
-  <h4>🔭 Hoje estou trabalhando com back-end</h4>
-  <h4> 🌱 Estudando Microservices/Spring Boot </h4>
+  <h4>🐱‍👤 Hoje estou trabalhando com back-end</h4>
+  <h4>🌱 Estudando Microservices/Spring Boot </h4>
   <h4>💬 Entre em contato: viniciusmar2014@outlook.com</h4>
   <img align="center" alt="Vini-ZorinOS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
 </div>
