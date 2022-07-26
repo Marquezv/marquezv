@@ -13,7 +13,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=marquezv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezv&layout=compact&langs_count=7&theme=dark"/>
 </div>
- ##
 
 <div style="center"><br>
   <img align="center" alt="Vini-Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
@@ -33,7 +32,6 @@
 </div>
 
 ##
-
 
 <div>
  <a href="https://www.linkedin.com/in/vinicius-marques-287baa239/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
