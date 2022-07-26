@@ -6,10 +6,14 @@
  <h4>💬 Entre em contato: viniciusmar2014@outlook.com</h4>
 </div>
 
+ ##
+
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=marquezv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezv&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ ##
 
 <div style="center"><br>
   <img align="center" alt="Vini-Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
@@ -27,4 +31,11 @@
   <img align="center" alt="Vini-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Vini-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
+
+##
+
+<div>
+   <img align="center" alt="Vini-Python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</div>
+
 
