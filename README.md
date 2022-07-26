@@ -1,9 +1,9 @@
 # Olá! Eu sou o Vinicius Marques
 
 <div align="left">
- <h4>🔭 Hoje estou trabalhando com back-end</h4>
- <h4> 🌱 Estudando Microservices/Spring Boot </h4>
- <h4>💬 Entre em contato: viniciusmar2014@outlook.com</h4>
+  <h4>🔭 Hoje estou trabalhando com back-end</h4>
+  <h4> 🌱 Estudando Microservices/Spring Boot </h4>
+  <h4>💬 Entre em contato: viniciusmar2014@outlook.com</h4>
 </div>
 
  ##
@@ -35,7 +35,8 @@
 ##
 
 <div>
-   <img align="center" alt="Vini-Python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+ <a href="https://www.linkedin.com/in/vinicius-marques-287baa239/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
