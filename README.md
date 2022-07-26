@@ -14,20 +14,18 @@
 </div>
 
 <div style="center"><br>
-  <img align="center" alt="Vini-Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  <img align="center" alt="Vini-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Vini-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Vini-Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="Vini-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Vini-Boostrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Vini-PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Vini-MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Vini-MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Vini-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Vini-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Vini-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Vini-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Vini-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+  <img align="center" alt="Vini-Docker"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" height="40" width="50" alt="Vini-Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+  <img align="center" height="40" width="50" alt="Vini-Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+
+  <img align="center" alt="Vini-PostgresSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Vini-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+
+  <img align="center" height="40" width="50" alt="Vini-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+  <img align="center" alt="Vini-Python"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
 ##
