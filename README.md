@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vinicius Marques
+# Olá! Eu sou o Vinicius Marques 👨‍🏭
 
 <div align="left">
   <h4>🐱‍👤 Hoje estou trabalhando com back-end</h4>
