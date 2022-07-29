@@ -1,3 +1,8 @@
+
+  ![Snake animation](https://github.com/Marquezv/marquezv/blob/output/github-contribution-grid-snake.svg)
+
+
+
 # Hi! I'am Vinicius Marques - BackEnd Developer 🐱‍👤
 
 <div align="left">
@@ -33,8 +38,3 @@
 <div>
  <a href="https://www.linkedin.com/in/vinicius-marques-287baa239/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-  ![Snake animation](https://github.com/Marquezv/marquezv/blob/output/github-contribution-grid-snake.svg)
-
-
-
