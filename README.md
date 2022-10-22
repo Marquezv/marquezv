@@ -8,7 +8,7 @@
 <div align="left">
   <h4>🌱 Studing Microservices/Spring Boot </h4>
   <h4>💬 Ask with me: viniciusmar2014@outlook.com</h4>
-  <img align="center" alt="Vini-ZorinOS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
+  <img align="center" alt="Vini-LinuxMint" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=mint&logoColor=white">
 </div>
 
  ##
