@@ -1,6 +1,4 @@
 
-  ![Snake animation](https://github.com/Marquezv/marquezv/blob/output/github-contribution-grid-snake.svg)
-
 
 
 # Hi! I'am Vinicius Marques - BackEnd Developer :ninja:
