@@ -17,7 +17,6 @@
 </div>
 
 <div style="center"><br>
-  <img align="center" alt="Vini-Heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Vini-Docker"  height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" height="40" width="50" alt="Vini-Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
