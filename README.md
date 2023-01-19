@@ -5,7 +5,6 @@
 
 <div align="left">
   <h4>🌱 Studing Microservices/Spring Boot </h4>
-  <h4>💬 Ask with me: viniciusmar2014@outlook.com || vmarquezv@outlook.com.br</h4>
   <img align="center" alt="Vini-LinuxMint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 </div>
 
